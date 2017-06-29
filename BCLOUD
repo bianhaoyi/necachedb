@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -u ./ -c "cd app/search/ksarch/store/cachedb && make" -m app/search/ksarch/store/cachedb -x
